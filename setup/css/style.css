@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+
+}
+
+.nav{
+ width: 500px;
+ height: 100vh;
+ background: rgb(63, 194, 255)
+}
+.box1 {
+    height: 50px;
+    padding: 50px;
+
+}
+.btn:hover {
+    color: rgb(3, 3, 71);
+    background: rgb(255, 255, 255);
+}
+
+.btn {
+    padding: 2rem;
+    background: rgb(21, 25, 248);
+    color: #ddd;
+    font-size: 30px;
+    border-radius: 20px;
+    line-height: 1px;
+    position: absolute;
+    left: 300px;
+    top: 50%;
+}
+h1 {
+     padding:  1rem  3rem 1rem;
+     background: rgb(2, 11, 95);
+         border-radius: 20px;
+         
+         color: rgb(59, 121, 255);
+         position: absolute;
+         left: 300px;
+         top: 59%;
+}
+h3 {
+    color: rgb(3, 3, 71);
+    ;
+      position: absolute;
+      left: 300px;
+      top: 45%;
+}
